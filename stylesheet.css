@@ -37,3 +37,6 @@ body {
   .navbar-nav  li a:hover {
       color: #1abc9c !important;
   }
+  #exp-text, #ski-smile, #about-text, #projects {
+    display: none;
+  }
